@@ -1,0 +1,140 @@
+
+
+
+*{
+
+margin: 0;
+padding:0;
+
+}
+
+
+
+img{
+
+width:100px;
+height:100px ;
+
+}
+
+.product{
+
+float: left;
+width: 24%;
+border: 1px solid black;
+
+
+}
+
+h1{
+
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.one{
+
+margin-left: 10px;
+
+
+
+}
+
+.two{
+
+    margin-left: 10px;
+    
+    
+    }
+
+    .three{
+
+        margin-left: 10px;
+        
+        
+        }
+
+        .four{
+
+            margin-left: 10px;
+            
+            
+            }
+
+
+            .five{
+
+                margin-left: 10px;
+                margin-top: 10px;
+                
+                
+                }
+
+                .six{
+
+                    margin-left: 10px;
+                    margin-top: 10px;
+                    
+                    }
+
+                    .seven{
+
+                        margin-left: 10px;
+                        margin-top: 10px;
+                        
+                        }
+
+                        .eight{
+
+                            margin-left: 10px;
+                            margin-top: 10px;
+                            
+                            
+                            }
+
+
+.product h2{
+
+font-size: 18px;
+padding-left: 10px;
+
+}
+
+
+.product p{
+
+color: rgb(114, 109, 109);
+padding-left: 10px;
+
+}
+
+.The-price-after-discount{
+
+color:#0ad611;
+padding-left: 10px;
+
+}
+
+.The-original-price{
+
+color:red;
+font-size: 13px;
+text-decoration: line-through;
+
+}
+
+.add-to-cart-button{
+width: 100px;
+height: 30px;
+background-color: blue;
+color: white;
+margin-left: 5px;
+margin-bottom: 5px;
+}
+
+
+.clearfix{
+
+clear: left;
+
+}
